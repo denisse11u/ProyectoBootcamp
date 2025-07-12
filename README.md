@@ -1,7 +1,8 @@
 # ProyectoBootcamp
 
-Este proyecto tiene como objetivo desarrollar un sistema básico de facturación. Permitirá generar, visualizar y almacenar facturas electrónicas de manera eficiente y sencilla.
-Actualmente, se encuentra en una fase inicial de desarrollo.
+Este proyecto tiene como objetivo desarrollar un sistema básico de facturación. Permitirá generar, visualizar y almacenar facturas de manera sencilla.
+
+Actualmente, se encuentra en una fase inicial de desarrollo...
 
 # Informacion Adicional 
 Definir requerimientos funcionales del sistema
